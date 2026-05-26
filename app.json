@@ -1,0 +1,19 @@
+{
+  "name": "Hawk",
+  "displayName": "Hawk",
+  "expo": {
+    "name": "Aplicacionmovil",
+    "slug": "aplicacionmovil",
+    "icon": "./assets/icon.png",
+    "version": "1.0.0",
+    "platforms": ["android"],
+    "android": {
+      "package": "com.aplicacionmovil"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "edcaeadc-6113-4af5-86f9-360951f570a3"
+      }
+    }
+  }
+}
